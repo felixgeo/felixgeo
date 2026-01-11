@@ -9,6 +9,10 @@ website:
         text: Home
       - about.qmd
 
+publish:
+  github:
+    repository: felixgeo/felixgeo
+
 format:
   html:
     theme:
