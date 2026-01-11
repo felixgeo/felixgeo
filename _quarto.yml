@@ -13,6 +13,8 @@ publish:
   github:
     repository: felixgeo/felixgeo
 
+output-dir: docs
+
 format:
   html:
     theme:
